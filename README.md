@@ -9,5 +9,7 @@ explanation of the buttons:
 - the button with "Fertig" on it closes the programm
 - the button with "Hilfe" on it opens a help menu for the intended use, wich is in german
 
+the .jar file is the executable java file, it only works with java 18
+the other 2 files are the source files
 ©Vinzent Schowald
 
