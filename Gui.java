@@ -273,7 +273,7 @@ public class Gui extends JFrame {
   } // end of bHilfe_ActionPerformed
   
   public void jOptionPane3_ShowDialog() {
-    JOptionPane.showMessageDialog(this, "Wenn Das Programm Heruntergeladen wurde befindet es sich im Ordner \"Downloads\".\nDen Gui kannst du bei \"Dieser PC\" auswaehlen.", "Hilfe", JOptionPane.INFORMATION_MESSAGE);
+    JOptionPane.showMessageDialog(this, "Wenn Das Programm Heruntergeladen wurde befindet es sich im Ordner \"Downloads\".\nDen MicroBit kannst du bei \"Dieser PC\" auswaehlen.", "Hilfe", JOptionPane.INFORMATION_MESSAGE);
   }
   public void jButton3_ActionPerformed(ActionEvent evt) {
     // TODO hier Quelltext einfgen
