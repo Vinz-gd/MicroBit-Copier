@@ -10,6 +10,6 @@ Explanation of the buttons:
 - the button with "Hilfe" on it opens a help menu for the intended use, wich is in german
 
 The .jar file is the executable java file, it only works with java 18. 
-The other 2 files are the source files. 
+The other files are the source files. 
 ©Vinzent Schowald
 
